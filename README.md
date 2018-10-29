@@ -2,6 +2,16 @@
 plugpecfonts
 
 A simple collection of fonts for plugpec
+CHeatset:
+[class*='pp-']:before{
+    display: inline-block;
+    font-family: 'plugpec';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
 
 *   pp-arquivos  
     cheatcode:  
