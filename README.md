@@ -27,7 +27,7 @@ A simple collection of fonts for plugpec
 *   pp-livro  
     cheatcode:  
     '\0048'
-*   pp-arquivos  
+*   pp-megafone  
     cheatcode:  
     '\0049'
 *   pp-notificacao  
