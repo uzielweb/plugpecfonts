@@ -2,7 +2,9 @@
 plugpecfonts
 
 A simple collection of fonts for plugpec
-CHeatset:
+
+Cheatset:
+
 [class*='pp-']:before{
     display: inline-block;
     font-family: 'plugpec';
