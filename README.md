@@ -4,7 +4,7 @@ plugpecfonts
 A simple collection of fonts for plugpec
 
 Cheatset:
-
+<code>
 [class*='pp-']:before{
     display: inline-block;
     font-family: 'plugpec';
@@ -14,7 +14,7 @@ Cheatset:
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale
 }
-
+</code>
 *   pp-arquivos  
     cheatcode:  
     '\0041'
