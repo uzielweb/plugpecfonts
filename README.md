@@ -1,5 +1,4 @@
 
-(setq markdown-css-paths '("https://github.com/uzielweb/plugpecfonts/css/plugpec.css"))
 
 plugpecfonts
 
@@ -18,7 +17,7 @@ Cheatset:
 }
 </code>
  
-<p class="pp-arquivos"></p>
+
 pp-arquivos
 cheatcode:
 '\0041'
